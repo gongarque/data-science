@@ -126,6 +126,5 @@ layout = dict(title = 'Average High and Low Temperatures in New York',
 
 plotly.offline.plot({
     "data": data,
-    "layout": layout}) 
- 
+    "layout": layout})
 # py.iplot(data, filename='line-mode')
